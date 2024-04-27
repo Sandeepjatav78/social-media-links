@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* font-weight: 500;
+    font-family: "Inter", sans-serif; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap');
+
+body {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    background-color: #141414;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 100;
+}
+
+h3{
+    font-weight: 500;
+    margin-top: 10px;
+}
+h6{
+    font-weight: 500;
+    color:#b1d436 ;
+    margin-top:5px ;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: .7em;
+    font-weight: 200;
+}
+.link p{
+    font-weight: 500;
+}
+
+.link:hover{
+    color: black;
+    background-color: #c4f82a;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.link{
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
+    background-color: #333333;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+main {
+    box-sizing: border-box;
+    width: 300px;
+    height: 450px;
+    /* margin: auto; */
+    /* margin-top: auto; */
+    /* margin-bottom: auto; */
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    /* background-color: red; */
+
+}
+
+img{
+    border-radius: 200px;
+    /* margin-top: 30px; */
+}
